@@ -1,4 +1,4 @@
-# Real-Time Chat App (MERN + Socket.io)
+# Chatify:-Real-Time Chat App (MERN + Socket.io)
 
 This is a real-time chat application built with the MERN (MongoDB, Express, React, Node.js) stack and Socket.io for instant messaging.
 
